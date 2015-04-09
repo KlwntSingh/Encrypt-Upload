@@ -27,6 +27,9 @@ Now you can make apk from code.
    if your file is present in local you can select it and you decrypt file.
    if file is present in dropbox account than first you need to first download it and decrypt.
    
+## Changing Credentials
+   Clear the application cache from settings.It will clear the data associated with application.
+   
 ## Future Supports 
     will support google drive. 
     improvement in UserInterface.
